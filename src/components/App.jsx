@@ -11,6 +11,7 @@ function App() {
         <RecipeItem recipe={{ id: 1, name: 'lazania' }} />
         <RecipeItem recipe={{ id: 2, name: 'test2' }} />
         <RecipeItem recipe={{ id: 3, name: 'test3' }} />
+        <RecipeItem recipe={{ id: 4, name: 'test4' }} />
       </div></section>
 
   );
